@@ -1,0 +1,152 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif; 
+}
+
+.topdiv{
+    background-color: #e3f5f8;
+    position: relative;
+    padding-top: 100px;
+}
+
+h1{
+    margin: 0;
+    font-family:'Sacramento', cursive;
+    color: #66BFBF;
+    font-size: 5.625rem;
+}
+h2{
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+   color: #66BFBF;
+    font-size: 2.5rem;
+}
+.web{
+    text-decoration: underline;
+}
+.img{
+    width: 145px;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}   
+.img1{
+    width: 145px;
+   position: absolute;
+   left: 300px;
+   bottom: 300px;
+}   
+.mountainimg{
+    padding-top: 0;
+    width: 50%;
+    margin-top: 25px;
+}
+
+.middlediv{
+    width: 100%;
+    height: 600px;
+}
+.myimage{
+    margin-top: 100px;
+    border-radius: 100%;
+    width: 200px;
+}
+.contact{
+    background-color:#2FA4FF;
+    border-radius: 15%;
+    text-decoration: none;
+    padding: 10px;
+    position: relative;
+    top:25px;
+}
+.contact:hover{
+    background-color:#096ebb;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.smallline{
+    width: 70px;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    border-color: rgb(154, 243, 213);
+}
+th{
+    padding-right: 20px;
+    text-align: center;
+    width: 190px;
+
+}
+.tablecenter{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    padding-top: 0;
+    margin-bottom: 0;
+       
+}
+.bottomdiv{
+    background-color:antiquewhite;
+    margin-bottom: 0;
+}
+.myskills{
+    font-weight: normal;
+    font-family:'Times New Roman';
+    margin-top: 4rem;
+  margin-bottom: 0;
+  font-size: 4rem;   
+}
+#lastline{
+    margin: 0;
+    height: 1px;
+    background-color: black;
+    border: none;
+}
+.footer{
+    background-color:#096ebb;
+    padding-top: 10px;
+    margin: 0;
+    height: 9rem;
+}
+.twitterimg{
+    width: 2rem;
+    margin-top: 0.7rem;
+    margin-bottom: 0;
+    margin-right: 25px;
+    border: 2px solid white;
+}
+.linkedinimg{
+    width: 2rem;
+    margin-bottom: 0;
+    margin-left: 25px;
+    margin-right: 25px;
+    border: 2px solid white;
+}
+.blogger{
+    width: 2rem;
+    margin-left: 35px;
+    border:2px solid white  ;
+}
+.copyright{
+    font-size: 0.7rem;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    color: white;
+}
+.contactus{
+    font-weight: normal;
+    display: inline;
+    font-size: 1rem;
+}
+#contactus{
+    color: black;
+    margin-right: 20px;
+}
+#contactus:hover{
+    color:gray ;
+}
+.help:hover{color: gray;}
+
